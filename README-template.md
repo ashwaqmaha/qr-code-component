@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-!(./screenshot/screenshot.png)
+![Design preview for the QR code component coding challenge](./screenshot/screenshot.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
